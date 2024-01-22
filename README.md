@@ -1,2 +1,2 @@
-# docs
-OctopOS Prime Documentations
+# op-mo-app
+OctopOS Prime Mobile Application
